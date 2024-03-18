@@ -1,0 +1,2 @@
+carlitos,clave1
+usuario2,clave2
